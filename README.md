@@ -1,5 +1,3 @@
----
-
 # Email Sender using Nodemailer
 
 This Node.js script utilizes the Nodemailer library to send HTML emails to recipients listed in a `clients.json` file.
