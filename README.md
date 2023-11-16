@@ -1,5 +1,3 @@
-Creating a `README.md` is a great way to document your code. Here’s a template you can use to describe what your code does:
-
 ---
 
 # Email Sender using Nodemailer
